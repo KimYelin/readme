@@ -4,7 +4,9 @@
 
 ## Introduction
 
-![경규옹](/app/assets/images/noname00.jpg "경규옹") 
+![경규옹](/app/assets/images/noname00.jpg "경규옹")
+
+_출처:http://newspaper.tistory.com/2511009_
 
 ‘지금까지 이경규의 몰래카메라였습니다!’
 이 대사는 누구나 기억하는, 한 시대를 풍미했던 MBC의 간판 예능 ‘일요일 일요일 밤에’의 코너 ‘이경규의 몰래카메라’의 엔딩 멘트이다.
@@ -12,10 +14,18 @@
 
 ![말이야 방구야](/app/assets/images/noname01.jpg "말이야 방구야")
 
+_출처:http://news.joins.com/article/21774258
+http://news.jtbc.joins.com/article/article.aspx?news_id=NB11240211
+http://imnews.imbc.com/replay/2016/nw930/article/3871091_19837.html _
+
 
 하지만 안타깝게도 다수는 언제, 어디서, 어떻게 촬영돼 개인의 사적인 모습이 인터넷 세상을 떠돌게 될지 모르는 불안감과 공포감에 휩싸여 자구책을 마련하는 사람들의 행동을 단순히 예민하게 반응한다고 치부한다. 과연 잠재적 피해자들의 피해 망상일 뿐이고 그들 모두의 신경이 유난히 예민한 것일까.
 
 ![나와](/app/assets/images/noname02.jpg "예민하다고 한사람 다 나와")
+
+_출처:http://news.kmib.co.kr/article/view.asp?arcid=0010067173
+http://www.insight.co.kr/news/104440
+http://1boon.kakao.com/issue/molca?embed=1&view=simple_
 
 
 ## Getting Started
